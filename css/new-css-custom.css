@@ -1,0 +1,11 @@
+h1, h2, h3 {
+    border: none !important;
+}
+
+table, tbody, tr, td{
+    background: #fff !important;
+}
+
+#counter img{
+    margin-bottom: 0;
+}
